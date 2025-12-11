@@ -1,2 +1,6 @@
 "—…• „š‡Œš‰" 
+<<<<<<< HEAD
 "™‰…‰ ‰‰‡…ƒ‰ -branchC" 
+=======
+"™‰…‰ ‰‰‡…ƒ‰ -branchA" 
+>>>>>>> branchA
